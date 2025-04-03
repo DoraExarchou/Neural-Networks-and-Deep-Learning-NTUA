@@ -1,1 +1,1 @@
-# Neural-Networks-and-Deep-Learning-NTUA
+# Neural-Networks-and-Deep-Learning-NTUA-2024
